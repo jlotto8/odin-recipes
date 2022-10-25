@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    background-color: aqua; 
+    color: midnightblue; 
+    font-size: 21px;
+}
+
+title {
+color: red; 
+}
+
+h1 {
+    font-size: 50px;
+    color: darkmagenta;
+}
+
+p{
+    color: darkred;
+}
+
+.ingredients-section {
+    color: darkcyan;
+}
+#alfredo-header {
+    color: darkslategray;
+}
+
+.steps-section.li {
+    font-size: large;
+    font-variant: small-caps;
+}
