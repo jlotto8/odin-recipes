@@ -14,9 +14,7 @@ h1 {
     color: darkmagenta;
 }
 
-p{
-    color: darkred;
-}
+
 
 .ingredients-section {
     color: darkcyan;
@@ -28,4 +26,9 @@ p{
 .steps-section.li {
     font-size: large;
     font-variant: small-caps;
+}
+
+ul li {
+    font-variant: small-caps;
+    color: firebrick;
 }
